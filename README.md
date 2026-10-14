@@ -1,2 +1,8 @@
 # aFactorial
-php exercices from dam clases
+<?php
+class video(){
+public string $length;
+Public string $tipe;
+private float $price;
+
+}
